@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 682085622}
   - component: {fileID: 682085621}
   m_Layer: 0
-  m_Name: Destroyer
+  m_Name: DoodleHead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
