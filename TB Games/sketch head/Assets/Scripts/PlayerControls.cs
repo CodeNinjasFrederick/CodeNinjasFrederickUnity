@@ -7,22 +7,22 @@ public class PlayerControls : MonoBehaviour
 {
     //Rigidbody2D object thatis stored
     [Header("rigidbody")]
-    pulblic Rigidbody2D rb;
-   [Headder("Defalt Down Speed")]
+    public Rigidbody2D rb;
+    [Header("Defalt Down Speed")]
     //downward speed of the object
     public float downSpeed = 20f;
-    [Header("Defalt Directional Movement Speed")]
+    [Header("Defalt Movement Speed")]
     //movement speed of the object 
     public float movementSpeed = 10f;
-   
-    [Header("Defalt Driectional Movement
+    [Header("Default Directional Movement Speed")]
+    //movement direction of the object
+    public float movement = 0f;
 
     // Start is called before the first frame update
     void Start()
     {
 
     }
-
     // Update is called once per frame
     void Update()
     {
@@ -32,7 +32,7 @@ public class PlayerControls : MonoBehaviour
         //multiplied by the movement speed 
         movementSpeed = Input.GetAxis("Horizontal") * movementSpeed;
         // if direction on x axis is less than 0
-        if (movementSpeed < 0 )
+        if (movementSpeed < 0)
         {
             //object faces to the left
             this.GetComponent<SpriteRenderer>().flipX = false;
@@ -41,10 +41,10 @@ public class PlayerControls : MonoBehaviour
         else
         {
             //object faces to the right
-            this.getComponent<SpriteRenderer>().flipX = true;
+            this.GetComponent<SpriteRenderer>().flipX = true;
         }
-
-        //Fixedupdatecalled every fixed frame frame-rate frame.
+    }
+        //Fixedupdate called every fixed frame frame-rate frame.
         void FixedUpdate()
         {
             //vector2 which is (x,y) velocity
@@ -53,19 +53,17 @@ public class PlayerControls : MonoBehaviour
             //Velocity of the x axis equals to 
             //the direction movement on the x axis
             //of the character
-            velcity.x = movementSpeed;
+            velocity.x = movementSpeed;
             //Rigidbody2D velocity equals to 
             //velocity of the object
             rb.velocity = velocity;
 
         }
-     //Collision function
-     private void OnCollisionEnter2D(Collision 2D collision)
-            {
-            //velocity with the downspeed
-            rb.velocity = new Vector3(rb.velocity.x, downSpeed, 0);
-        }
     
+    //Collision function
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        //velocity with the downspeed
+        rb.velocity = new Vector3(rb.velocity.x, downSpeed, 0);
     }
-
 }
