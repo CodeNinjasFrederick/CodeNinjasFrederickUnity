@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/scavenger hunt save i think use this this time-CNFLPS145-07.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
