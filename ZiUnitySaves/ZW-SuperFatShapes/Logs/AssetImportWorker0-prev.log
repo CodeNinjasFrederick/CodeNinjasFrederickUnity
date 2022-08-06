@@ -1,0 +1,1204 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19041) 64bit Core' Language: 'en' Physical Memory: 6020 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Ninja/OneDrive/ZiUnitySaves/ZW-SuperFatShapes
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52512
+Successfully changed project path to: C:/Users/Ninja/OneDrive/ZiUnitySaves/ZW-SuperFatShapes
+C:/Users/Ninja/OneDrive/ZiUnitySaves/ZW-SuperFatShapes
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 70.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Ninja/OneDrive/ZiUnitySaves/ZW-SuperFatShapes/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3010 MB
+    Driver:   27.20.11028.10001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56080
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007553 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 66.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.977 seconds
+Domain Reload Profiling:
+	ReloadAssembly (977ms)
+		BeginReloadAssembly (156ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (672ms)
+			LoadAssemblies (152ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (240ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (259ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (122ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011368 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 64.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.680 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1681ms)
+		BeginReloadAssembly (221ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (1352ms)
+			LoadAssemblies (186ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (422ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (504ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (64ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (289ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2277 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.7 MB.
+System memory in use after: 116.7 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2715.
+Total: 6.163200 ms (FindLiveObjects: 0.349400 ms CreateObjectMapping: 0.147900 ms MarkObjects: 5.306000 ms  DeleteObjects: 0.357500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/SparksLuminance.mat
+  artifactKey: Guid(b28270296bbf5bf4595051da73e0106d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/SparksLuminance.mat using Guid(b28270296bbf5bf4595051da73e0106d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e21972221cd3c0655e29b6f623d4c5') in 0.284306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027543 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/MKGlow.cs
+  artifactKey: Guid(b9441d5450817c342a45e4b8dd66de6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/MKGlow.cs using Guid(b9441d5450817c342a45e4b8dd66de6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29ebdb17bbbbc411969adeea92e7747') in 0.012051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.098170 seconds.
+  path: Assets/Scenes/SuperShapesSettings.lighting
+  artifactKey: Guid(84ffdf484f2c22f41adcee6906dac4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SuperShapesSettings.lighting using Guid(84ffdf484f2c22f41adcee6906dac4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '5adf196493ca78959f78edda31d2e1f0') in 0.013893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038108 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/MKGlowStandard.shader
+  artifactKey: Guid(34a47d205ffc45e47949b1581df454f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/MKGlowStandard.shader using Guid(34a47d205ffc45e47949b1581df454f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd35af44d4a0cb87b4ea4b0055a94a14b') in 0.012078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011399 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/Debug.hlsl
+  artifactKey: Guid(112faacb207ae184da3ea1e2e20002f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/Debug.hlsl using Guid(112faacb207ae184da3ea1e2e20002f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba0e3ac44a599c2996eddd35656014a5') in 0.012672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010471 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal/MK_Normal-DiffuseBumped.shader
+  artifactKey: Guid(9327f5d2876b1c2428ceeb044fe2f403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal/MK_Normal-DiffuseBumped.shader using Guid(9327f5d2876b1c2428ceeb044fe2f403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049fecb7d8af3b157a54bd5d43bc0614') in 0.009848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011816 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/GlowCube.mat
+  artifactKey: Guid(53e1a5bd03902f345a270144e5194bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/GlowCube.mat using Guid(53e1a5bd03902f345a270144e5194bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1654781e42b51a2f33d19d6ad63896e') in 0.168563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015415 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_back.png
+  artifactKey: Guid(2e433026b50caac468a3d8597eade730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_back.png using Guid(2e433026b50caac468a3d8597eade730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27579c300fcab125c4f58637e378957d') in 0.052575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013130 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle/MK_Particle Add.shader
+  artifactKey: Guid(425bb4f30f3670849a43db82a7377365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle/MK_Particle Add.shader using Guid(425bb4f30f3670849a43db82a7377365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4abb57ce8ace4f43135d12fb8ed2fb') in 0.008776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013553 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Other/MK_Mobile-Diffuse.shader
+  artifactKey: Guid(0fc06dbae827e7646bd0850ff121daa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Other/MK_Mobile-Diffuse.shader using Guid(0fc06dbae827e7646bd0850ff121daa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6919e284ab441b0d18b0e5ae728a9a0d') in 0.010414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035164 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Cracks_Gradient.png
+  artifactKey: Guid(9393401094e28ca4092b02c83ff6c76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Cracks_Gradient.png using Guid(9393401094e28ca4092b02c83ff6c76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1a2effec5374c9357f020cc5730422') in 0.028073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015613 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders
+  artifactKey: Guid(839199b4c90e5ab4dbcb7fc664d90921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders using Guid(839199b4c90e5ab4dbcb7fc664d90921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e8c8d9c5e197db3113b5345c9118b0') in 0.016374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014665 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/Obelisk.mat
+  artifactKey: Guid(9d543aac248f581449a65074e8d1bfd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/Obelisk.mat using Guid(9d543aac248f581449a65074e8d1bfd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '780bdc29eec41f50fb8d121ea777fd8a') in 0.053472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038950 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Obelisk.jpg
+  artifactKey: Guid(23f5cd05d40272a45b9335f6e903eefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Obelisk.jpg using Guid(23f5cd05d40272a45b9335f6e903eefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4294930eda2eb68704d96d3b44bf2bf5') in 0.020675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016872 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/RenderContext.cs
+  artifactKey: Guid(1439050621cb3a440895347e53f4d6a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/RenderContext.cs using Guid(1439050621cb3a440895347e53f4d6a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96338f266e976eac838fca8449e7b6f8') in 0.009883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007192 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective
+  artifactKey: Guid(d6756c76e16433043a6a296abf963b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective using Guid(d6756c76e16433043a6a296abf963b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c642a70b41c5c1be4eee64cbbb78b0') in 0.010476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008072 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts
+  artifactKey: Guid(9b0300c3ad7a7384e8e2a60385ccfadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts using Guid(9b0300c3ad7a7384e8e2a60385ccfadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d8dbf2ad553c0a16cc3a6df184b377') in 0.010036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006690 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(431fc7071c76f5c47b64a4c36a978c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(431fc7071c76f5c47b64a4c36a978c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd217735b0601edf98eedad2a67b8138a') in 0.009591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011028 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/Upsample.hlsl
+  artifactKey: Guid(1e7b462d0b9513d44814979c47a10300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/Upsample.hlsl using Guid(1e7b462d0b9513d44814979c47a10300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2341b16d02b83d41e5b558d46ed7cea5') in 0.010422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012985 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSelectiveRender.shader
+  artifactKey: Guid(c04b7cae8accdfb4e9c2648823ff39d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSelectiveRender.shader using Guid(c04b7cae8accdfb4e9c2648823ff39d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f000acc2b9f56d2fc3088fb6fe57701') in 0.010408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029722 seconds.
+  path: Assets/_MK/MKGlowFree/Builtin/Resources/MKGlowResources.asset
+  artifactKey: Guid(7214a85d80cb30a45abb28ccee32f5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Builtin/Resources/MKGlowResources.asset using Guid(7214a85d80cb30a45abb28ccee32f5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d7f8fa894c19424a1457c3d4d64616') in 0.012337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012544 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/Downsample.hlsl
+  artifactKey: Guid(d63fb70577add0e4490464ced338a8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/Downsample.hlsl using Guid(d63fb70577add0e4490464ced338a8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2131b62c1278a83274335309cb9d56f') in 0.010424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006393 seconds.
+  path: Assets/_MK/MKGlowFree/Builtin
+  artifactKey: Guid(092c0966d665ec34c9cd11c1bd9cccfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Builtin using Guid(092c0966d665ec34c9cd11c1bd9cccfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf89b8c9d93cae444cbcf06cad81fd4') in 0.009455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010897 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/UI/UI-Default.shader
+  artifactKey: Guid(91a9454556c506245ac3189d1d9e909e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/UI/UI-Default.shader using Guid(91a9454556c506245ac3189d1d9e909e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c259563160e741559aefdf6f765c173a') in 0.009289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025322 seconds.
+  path: Assets/_MK/MKGlowFree/Editor/EditorHelper.cs
+  artifactKey: Guid(af43dbed09e512049bef645f2d379cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Editor/EditorHelper.cs using Guid(af43dbed09e512049bef645f2d379cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d0a23309a55710709c03a76a85f865') in 0.008530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015875 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_front.png
+  artifactKey: Guid(b0ebf715a040e6e48a9e5e76737fc128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_front.png using Guid(b0ebf715a040e6e48a9e5e76737fc128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2072f55f04ee1277df63e306e518a258') in 0.029110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012319 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/DestroyOpenMenuText.cs
+  artifactKey: Guid(06001f76b0cd0e344967e5434e927df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/DestroyOpenMenuText.cs using Guid(06001f76b0cd0e344967e5434e927df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584f98ef3e5ce5b80a733b48d823b36c') in 0.009981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010617 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/Sprites/Sprites-Diffuse.shader
+  artifactKey: Guid(319b85e556e15554ca1e24e369c7d720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/Sprites/Sprites-Diffuse.shader using Guid(319b85e556e15554ca1e24e369c7d720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0ba95f33137f0399a82efdd9766b9e') in 0.009744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032639 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_down.png
+  artifactKey: Guid(6aa01fa91d410474a86d4477a37af2a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_down.png using Guid(6aa01fa91d410474a86d4477a37af2a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0789cfc0c5bfc25c292092ef8fbe54c7') in 0.033510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012600 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Dice_GlowMap.jpg
+  artifactKey: Guid(443520e2b7cf76545b3cce75f665154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Dice_GlowMap.jpg using Guid(443520e2b7cf76545b3cce75f665154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b174cc2ad1ed28469aaa5f3a2b06ef') in 0.019538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018678 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance
+  artifactKey: Guid(dfc25d8260d951e4b81827f99ab60fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance using Guid(dfc25d8260d951e4b81827f99ab60fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db4007ed550456fe8fa004af371be2c4') in 0.009226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010798 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Prefabs/Asteroid0.prefab
+  artifactKey: Guid(6fb513fa5b0f39748aa384943eb8697b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Prefabs/Asteroid0.prefab using Guid(6fb513fa5b0f39748aa384943eb8697b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ccd81505fce8e290528bac9804bb47e') in 0.092295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026643 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Obelisk_Glow_Gradients.png
+  artifactKey: Guid(7b98b566c9bd1f44599c0d1a26dfd2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Obelisk_Glow_Gradients.png using Guid(7b98b566c9bd1f44599c0d1a26dfd2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5c38680bd42478d513b2d7f2bcd8e6') in 0.027748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016108 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scenes/Spectate.unity
+  artifactKey: Guid(7bb883e381787c64faff526a745fc71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scenes/Spectate.unity using Guid(7bb883e381787c64faff526a745fc71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0527ca7534dcab3e3293c4fb2a90fe5f') in 0.015362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016799 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_up.png
+  artifactKey: Guid(c84618a11547ab5449d9076843a113c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_up.png using Guid(c84618a11547ab5449d9076843a113c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ce2af6aa0d8f0954899e4e4af0aeed') in 0.037867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009078 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent
+  artifactKey: Guid(101e76d872cf3754ab30ceab8dbe3d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent using Guid(101e76d872cf3754ab30ceab8dbe3d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e6f4345a8a4b1b44d4bb72b9167ce8') in 0.010286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011891 seconds.
+  path: Assets/Scripts/Shape.cs
+  artifactKey: Guid(12e8373552587ed4bab05c035de8de2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shape.cs using Guid(12e8373552587ed4bab05c035de8de2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01519067e4d94eb158bf99133d5dd169') in 0.010823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013361 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Tablet_Glow.png
+  artifactKey: Guid(2bc10b59de9f27e429d74bf83786c2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Tablet_Glow.png using Guid(2bc10b59de9f27e429d74bf83786c2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d981f8847ebf366cedcc3b10c154b5') in 0.039452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014786 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-Detail.shader
+  artifactKey: Guid(8cb5263bb4390bc49a3bf6f40e77a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-Detail.shader using Guid(8cb5263bb4390bc49a3bf6f40e77a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62cf0c452fb6437f800e0834769a6a20') in 0.010734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051630 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Other/MK_Illumin-Diffuse.shader
+  artifactKey: Guid(a6b700a358a79f445add9a15b906f33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Other/MK_Illumin-Diffuse.shader using Guid(a6b700a358a79f445add9a15b906f33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa86378f1ccfa7253502fe91031d22fe') in 0.009630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.047421 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Runes.png
+  artifactKey: Guid(fa99464b43568ee4fa101de50ed46919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Runes.png using Guid(fa99464b43568ee4fa101de50ed46919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276d892cbb3aac7a7b135cb0db3db444') in 0.020935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013472 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle/MK_Particle AddMultiply.shader
+  artifactKey: Guid(c64330115a26f1444989ec98fa892cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle/MK_Particle AddMultiply.shader using Guid(c64330115a26f1444989ec98fa892cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45ac17664ec8aa97ff7f0124611bf50') in 0.009891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011614 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM40.shader
+  artifactKey: Guid(843dd593cf89f884ca1c2d527bf69102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM40.shader using Guid(843dd593cf89f884ca1c2d527bf69102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0cdc8fe1bf65be9cdf29e349d26264e') in 0.009837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010271 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/SelectiveParticleStandard_2017_3_Or_Higher.unitypackage
+  artifactKey: Guid(395fc4f6fa41e594f94a6874c7c1a345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/SelectiveParticleStandard_2017_3_Or_Higher.unitypackage using Guid(395fc4f6fa41e594f94a6874c7c1a345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7062bd73bc9b5a6eb109fe78748929') in 0.011438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011395 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/Copy.hlsl
+  artifactKey: Guid(5920487793b2f7f4890b357ac3232b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/Copy.hlsl using Guid(5920487793b2f7f4890b357ac3232b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a7f3eac3ec3c7cbdcd0d906850f1ca') in 0.011397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012989 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout/MK_Cutout-Diffuse.shader
+  artifactKey: Guid(f8ae815e0dcd2fb4384b2918ef1784b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout/MK_Cutout-Diffuse.shader using Guid(f8ae815e0dcd2fb4384b2918ef1784b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '502370c0187f5a4a899adebf1b753d32') in 0.009354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010202 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent/MK_Transparent-Glossy.shader
+  artifactKey: Guid(cc4c98fd621852f4bbd024b5317031ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent/MK_Transparent-Glossy.shader using Guid(cc4c98fd621852f4bbd024b5317031ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2595fb3f36f8548dd2a45580437da471') in 0.011280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010585 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Prefabs/Asteroid1.prefab
+  artifactKey: Guid(71b0ae4923e7bf94fb8ab7e219213bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Prefabs/Asteroid1.prefab using Guid(71b0ae4923e7bf94fb8ab7e219213bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1a3a91d586290ba69be0eb7ce41528') in 0.034888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013279 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Cracks_Simple_02.png
+  artifactKey: Guid(61d3229c38cd0444d9ef494226a5a294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Cracks_Simple_02.png using Guid(61d3229c38cd0444d9ef494226a5a294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b4f5af7afb5597a8a62ffeae6b259c') in 0.020039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014236 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent/MK_Transparent-DiffuseBumped.shader
+  artifactKey: Guid(32be128ae7b57e24c95e40171a77de81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent/MK_Transparent-DiffuseBumped.shader using Guid(32be128ae7b57e24c95e40171a77de81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73383e1150aa080c2dc48f69b9b14fc7') in 0.009661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007791 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(9957c630c9a0b2c47abbcf32c1e89d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(9957c630c9a0b2c47abbcf32c1e89d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa72655a59b6cacf641f754455cb830') in 0.010462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010663 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/Common.cs
+  artifactKey: Guid(201c39ef80cb312499236b9f6f2c4730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/Common.cs using Guid(201c39ef80cb312499236b9f6f2c4730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14fed2b85a41f507008eb687281f7a6e') in 0.009981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.048184 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Models/Podium.FBX
+  artifactKey: Guid(1d52697d3f7a38f40a4e374e9a48dd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Models/Podium.FBX using Guid(1d52697d3f7a38f40a4e374e9a48dd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d40231c9f08cdf48ebd0e0b9b03bf7d') in 0.284760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013520 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/Composite.hlsl
+  artifactKey: Guid(d34867f01bf2ac840a7d807aced58706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/Composite.hlsl using Guid(d34867f01bf2ac840a7d807aced58706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54bf6bcaa2c61b17c09dbdf9873d8af4') in 0.011107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012162 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scenes/SetupLuminance.unity
+  artifactKey: Guid(a632494c59c5f92458875766d5100a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scenes/SetupLuminance.unity using Guid(a632494c59c5f92458875766d5100a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184417cc86911d7e664d374058f8d1c1') in 0.011238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011532 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/Cube.cs
+  artifactKey: Guid(4cf0e173d11ea024581bd60a76d7883c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/Cube.cs using Guid(4cf0e173d11ea024581bd60a76d7883c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d835202c34f3e837f6abf8da944a7e2') in 0.009207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010315 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/CubeEmissive0.mat
+  artifactKey: Guid(b3cb5f103012ea345b1ca739e5d0d966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/CubeEmissive0.mat using Guid(b3cb5f103012ea345b1ca739e5d0d966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a681b9fbed0917be0208a0864de30b9d') in 0.021322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033199 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Unlit-Transparent.shader
+  artifactKey: Guid(8898048fd5eeee34bb2ee5a0731dc8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Unlit-Transparent.shader using Guid(8898048fd5eeee34bb2ee5a0731dc8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25204e19aaa654df4941001c6968cff') in 0.011776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037795 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/FireParticle.png
+  artifactKey: Guid(c444c728eaae9e8468ce433617fa1682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/FireParticle.png using Guid(c444c728eaae9e8468ce433617fa1682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fce3d46c834fa41def6513624e69132') in 0.033568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037986 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal/MK_Normal-Diffuse.shader
+  artifactKey: Guid(3f387b3c7760d5a488b5596b42425701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal/MK_Normal-Diffuse.shader using Guid(3f387b3c7760d5a488b5596b42425701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da96c8676e2e5979a11136f7ace240b') in 0.011307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006655 seconds.
+  path: Assets/_MK/MKGlowFree/Examples
+  artifactKey: Guid(263e90cae2728054496f81712ed3bbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples using Guid(263e90cae2728054496f81712ed3bbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef08301c042cb96b71e9003320cb3e5f') in 0.011448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011961 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM30.shader
+  artifactKey: Guid(47845203cec7723419c09c484cc3c17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM30.shader using Guid(47845203cec7723419c09c484cc3c17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d71db23979da95169919f90dbfe3d12') in 0.010810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018360 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_left.png
+  artifactKey: Guid(ca4b257243b33914bac990c7ddfaa9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_left.png using Guid(ca4b257243b33914bac990c7ddfaa9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc28b1db371a50c342b2433b6a91025e') in 0.032422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009389 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scenes
+  artifactKey: Guid(25efef18f38b95a4587b06c8755381e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scenes using Guid(25efef18f38b95a4587b06c8755381e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c970fc3f206c574691b8fa41a781fc81') in 0.010084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024097 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-DefaultETC1.shader
+  artifactKey: Guid(843810dae4328f14a93597b2e01a25e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-DefaultETC1.shader using Guid(843810dae4328f14a93597b2e01a25e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf9c47c81af210899ba1fe24d9c38b2') in 0.009760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.055833 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/PipelineExtensions.cs
+  artifactKey: Guid(9e6a19f773566fd46bb55b8b254f207b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/PipelineExtensions.cs using Guid(9e6a19f773566fd46bb55b8b254f207b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ffe49fa9d8ebdbee402c642f5d04c8') in 0.009337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012888 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin/MK_Illumin-DiffuseBumped.shader
+  artifactKey: Guid(fac84b4723b809249a5c2677f01b7b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin/MK_Illumin-DiffuseBumped.shader using Guid(fac84b4723b809249a5c2677f01b7b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6743592d3f7c4f8dc3ae13b4900daec9') in 0.010903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012202 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout/MK_Cutout-DiffuseBumped.shader
+  artifactKey: Guid(77e9a53f1daa9e0488691cd39c5ce1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout/MK_Cutout-DiffuseBumped.shader using Guid(77e9a53f1daa9e0488691cd39c5ce1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95638c65182d2f9ff80ee6b27a47997c') in 0.009236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011679 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-DefaultFont.shader
+  artifactKey: Guid(20fc364bdf0c4b042b44538375bea09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-DefaultFont.shader using Guid(20fc364bdf0c4b042b44538375bea09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be797c3449ee6a679538efe6e9b7902d') in 0.010113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010938 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle/MK_Particle Multiply.shader
+  artifactKey: Guid(5e6eeee52947c89499c9d8de68894415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle/MK_Particle Multiply.shader using Guid(5e6eeee52947c89499c9d8de68894415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8072096dbefb69d0cdb41d958a7d10b6') in 0.011274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008648 seconds.
+  path: Assets/Font
+  artifactKey: Guid(1e1fa526eebf0fc45a9cdfb73182d344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font using Guid(1e1fa526eebf0fc45a9cdfb73182d344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374777a9893a793629b9dff069004af6') in 0.013459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.092306 seconds.
+  path: Assets/_MK/MKGlowFree/Setup.pdf
+  artifactKey: Guid(d236db025040d1a478480f4a32de5018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Setup.pdf using Guid(d236db025040d1a478480f4a32de5018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3d6d8b897f49982adc9cf779d22fd2') in 0.015879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007054 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc
+  artifactKey: Guid(686733ec1d033a84bb82fed5cc60f054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc using Guid(686733ec1d033a84bb82fed5cc60f054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af09d7d31e298a9114f17d8837702062') in 0.010755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011784 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Models/Dice.FBX
+  artifactKey: Guid(c7809d7976ae2e34d8e39613afa805e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Models/Dice.FBX using Guid(c7809d7976ae2e34d8e39613afa805e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42be75f415002eadc225e1971f003ec6') in 0.029412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012103 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scenes/Cubes.unity
+  artifactKey: Guid(c6fbeefcf54dee042b5e468c5da59d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scenes/Cubes.unity using Guid(c6fbeefcf54dee042b5e468c5da59d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab414e2ee9728183239f0a1e98d73e74') in 0.010367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012682 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/ChangeSettingsLegacy.cs
+  artifactKey: Guid(2cdde7e10a683994f8c1fc24cc0a478a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/ChangeSettingsLegacy.cs using Guid(2cdde7e10a683994f8c1fc24cc0a478a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034da24303db80cc10bcfca6889545d7') in 0.009338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010804 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/RotateObject.cs
+  artifactKey: Guid(7f2c392e2ceaf30469e45e9650d72bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/RotateObject.cs using Guid(7f2c392e2ceaf30469e45e9650d72bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab016318a736d63b57738563eaa9c49d') in 0.009526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006093 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Effect
+  artifactKey: Guid(897969dcbdd6a9a4e98ac3fa44240bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Effect using Guid(897969dcbdd6a9a4e98ac3fa44240bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c29c2aee41f03de8e499e55a35100be') in 0.008798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011602 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Prefabs/Asteroid2.prefab
+  artifactKey: Guid(492af46e6b8373f41ba1c23ce7793d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Prefabs/Asteroid2.prefab using Guid(492af46e6b8373f41ba1c23ce7793d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dfb852fc0652db22f829e115e1b1f81') in 0.035118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036692 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-Bumped.shader
+  artifactKey: Guid(5ccb5bee8f588744d8788bf564b8c320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-Bumped.shader using Guid(5ccb5bee8f588744d8788bf564b8c320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115b6dee67c53411ad264fb81008d4ae') in 0.012781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007765 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle
+  artifactKey: Guid(eec0656ac95fa1b48ab4e34507e6092a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle using Guid(eec0656ac95fa1b48ab4e34507e6092a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90b255ebeeb17b42feaec022a3544f77') in 0.012432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014338 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/Asteroid.cs
+  artifactKey: Guid(0f78e946b9d2cc546b02c6d3125394d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/Asteroid.cs using Guid(0f78e946b9d2cc546b02c6d3125394d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7fa7ed7fd21da92aa04f6fa3735af71') in 0.011103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015022 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM20.shader
+  artifactKey: Guid(4a0f69365db105c4c9683ec58315366b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM20.shader using Guid(4a0f69365db105c4c9683ec58315366b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e3523f263e6fda3ac4e5db0540ee44') in 0.011947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011843 seconds.
+  path: Assets/_MK/MKGlowFree/Legacy_3_0_7/ReadMe.txt
+  artifactKey: Guid(e14d1c51884d2e7488a7104c23d7c91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Legacy_3_0_7/ReadMe.txt using Guid(e14d1c51884d2e7488a7104c23d7c91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c3b446d01524a91f1011884c070267') in 0.018645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012095 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Models/Obelisk.FBX
+  artifactKey: Guid(5dc2de92884088d499a395dd0c5c2532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Models/Obelisk.FBX using Guid(5dc2de92884088d499a395dd0c5c2532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '373fe85bfc3445c6e09d9dde5180989a') in 0.029535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008293 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy
+  artifactKey: Guid(601c8ec82d3ced94b92b80be849e7fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy using Guid(601c8ec82d3ced94b92b80be849e7fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e88e428bdeee30a3a3cfad1b4e906e') in 0.011547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006883 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials
+  artifactKey: Guid(e23cc48f131da7545b0550a01930132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials using Guid(e23cc48f131da7545b0550a01930132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70afd86d3af736309302d3875aafc95') in 0.010408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033839 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/MKGlowStandardSpecular.shader
+  artifactKey: Guid(8425d75d63304e6469fbae53f4345ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/MKGlowStandardSpecular.shader using Guid(8425d75d63304e6469fbae53f4345ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92742beec466cfe321562a5e4502ec0e') in 0.011520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012593 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal/MK_Normal-DiffuseBumpSpec.shader
+  artifactKey: Guid(4c92d5f259dea094797d1243dbfc5332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal/MK_Normal-DiffuseBumpSpec.shader using Guid(4c92d5f259dea094797d1243dbfc5332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed82e8b6faf58f107896b071fd77e45b') in 0.009392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011266 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/AsteroidMat1.mat
+  artifactKey: Guid(03e73bf41c04040449227ac1800a82c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/AsteroidMat1.mat using Guid(03e73bf41c04040449227ac1800a82c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7245bafa7ff15d9fcf015eeb71031234') in 0.025713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013658 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Models/Asteroid.FBX
+  artifactKey: Guid(8601edb3ef3c7ef43b73d2ae0e674f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Models/Asteroid.FBX using Guid(8601edb3ef3c7ef43b73d2ae0e674f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3213164adbd1c66e524cdd92e030f17d') in 0.023749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006900 seconds.
+  path: Assets/Material
+  artifactKey: Guid(731b8017fb55da64c903a14ed3b070df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(731b8017fb55da64c903a14ed3b070df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be10f675041e58f5d41b14fcb1aaf8e2') in 0.009029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011180 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scenes/Space.unity
+  artifactKey: Guid(d79c6a23082b06a49b65ae5adc4d7df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scenes/Space.unity using Guid(d79c6a23082b06a49b65ae5adc4d7df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50af924c6a3ced442f372c5048c84309') in 0.010478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012836 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent/MK_Transparent-DiffuseBumpSpec.shader
+  artifactKey: Guid(e9cdaf04185e15745baaf35db61a9326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent/MK_Transparent-DiffuseBumpSpec.shader using Guid(e9cdaf04185e15745baaf35db61a9326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e553bb9d2c4d5635735873902967f7') in 0.010038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011137 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/IDimension.cs
+  artifactKey: Guid(524a145f213060b498fb377660f7059b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/IDimension.cs using Guid(524a145f213060b498fb377660f7059b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf81d2435fbabc5f91a9634b8a4a4325') in 0.008772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012633 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-Transparent.shader
+  artifactKey: Guid(4714963fa9324c5418cffb2fe0a75820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-Transparent.shader using Guid(4714963fa9324c5418cffb2fe0a75820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0465f4d0c323f5c5be1493275db60749') in 0.009192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008212 seconds.
+  path: Assets/_MK/MKGlowFree/Editor
+  artifactKey: Guid(d43e4b978deb1c74f9a03c4c2d7d6bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Editor using Guid(d43e4b978deb1c74f9a03c4c2d7d6bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301f833daa08a62d80424f70e397a2c7') in 0.009840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012015 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/Effect.cs
+  artifactKey: Guid(65e7773aa3c21004d88194ccf13a777e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/Effect.cs using Guid(65e7773aa3c21004d88194ccf13a777e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8e0172f47c68f79d29454e8c10876f') in 0.003877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006391 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Other
+  artifactKey: Guid(40fa80a90b3a51546ad41229d8a7ee4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Other using Guid(40fa80a90b3a51546ad41229d8a7ee4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28f87f9e76ee8b8af69d978f56c1a019') in 0.009445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026565 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Prefabs
+  artifactKey: Guid(29eb05a5012a911499d2b9feeec9550f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Prefabs using Guid(29eb05a5012a911499d2b9feeec9550f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74c262a7600b1f2f04b3b3360c5deb4') in 0.009232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007336 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts
+  artifactKey: Guid(eecb39a305075b44f9f82689f675722d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts using Guid(eecb39a305075b44f9f82689f675722d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57211fa9d68a8e2f46151e4687a2851') in 0.004130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011752 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Squared.png
+  artifactKey: Guid(47881fad258bd43468e7ba6694e5ad76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Squared.png using Guid(47881fad258bd43468e7ba6694e5ad76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65df8c4dda2ef61c130a889b8a9fb721') in 0.019732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013357 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/MipBuffer.cs
+  artifactKey: Guid(3cc58988f3195d84a88b3e28430f0549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/MipBuffer.cs using Guid(3cc58988f3195d84a88b3e28430f0549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af030ae84e82cd7b7a438582f485c5c3') in 0.009251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025463 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI
+  artifactKey: Guid(84a199a0507cca147b45881af350c275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI using Guid(84a199a0507cca147b45881af350c275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812617a9c5803a41d646f77edfbb2d40') in 0.009526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006616 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Sprites
+  artifactKey: Guid(ce41526b63d093b4bbcd25cb40721bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Sprites using Guid(ce41526b63d093b4bbcd25cb40721bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f23b837daa616333a733fd85170aa74f') in 0.003651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012113 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/CompositeSample.hlsl
+  artifactKey: Guid(1cfcfb8dd3c5fa84895efedacb1af92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/CompositeSample.hlsl using Guid(1cfcfb8dd3c5fa84895efedacb1af92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df5453d384d2a9a146b9cdb571b573e') in 0.014403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011087 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/Skybox.mat
+  artifactKey: Guid(6de8d580c5975f34cb6e90b9e399cc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/Skybox.mat using Guid(6de8d580c5975f34cb6e90b9e399cc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2d2f95ee83c7edaf9ad53263d0d5031') in 0.311745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014136 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/Resources.cs
+  artifactKey: Guid(3d9325ef48e5711458c95a93b98434ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/Resources.cs using Guid(3d9325ef48e5711458c95a93b98434ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '274c521e02f8f951b6bef0af4c7b990b') in 0.004181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012733 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scenes/SetupSelective.unity
+  artifactKey: Guid(ea8aafddb572a6648a08ce18a8864699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scenes/SetupSelective.unity using Guid(ea8aafddb572a6648a08ce18a8864699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa882d877d47cc61968e31fa37c3bd6a') in 0.012305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038103 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin/MK_Illumin-DiffuseBumpSpec.shader
+  artifactKey: Guid(fcd55b46a2393854490a0c0227143c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin/MK_Illumin-DiffuseBumpSpec.shader using Guid(fcd55b46a2393854490a0c0227143c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a7f69a67b12320d3aa34f5750f54b9') in 0.026336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023661 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Unlit-Text.shader
+  artifactKey: Guid(6c0982a3e2e39d24f8ecf5ca27cfbc72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Unlit-Text.shader using Guid(6c0982a3e2e39d24f8ecf5ca27cfbc72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0057f07c0d34e9fb7fb5edbf5b5af1') in 0.011140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038377 seconds.
+  path: Assets/Scripts/PlayerControls.cs
+  artifactKey: Guid(c69b5a5069339314b8cf1115fa71ac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControls.cs using Guid(c69b5a5069339314b8cf1115fa71ac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1c597543ba4b0fdaad77497d1635fc') in 0.018764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019429 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/FlameSelective.mat
+  artifactKey: Guid(1c2f211c73a45ad42ac6cb30360cfab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/FlameSelective.mat using Guid(1c2f211c73a45ad42ac6cb30360cfab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5d3c840bd8ddb060c6433f31310eca') in 0.025961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033788 seconds.
+  path: Assets/Scripts/Score.cs
+  artifactKey: Guid(20eb12e3762c20949a4711f5ced43a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Score.cs using Guid(20eb12e3762c20949a4711f5ced43a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ef7022e551361874b6aa8ebaa10bd6') in 0.019429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027033 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/UI.hlsl
+  artifactKey: Guid(cede9e68f46d0c44c98f973658fd13e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/UI.hlsl using Guid(cede9e68f46d0c44c98f973658fd13e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5ffa767499b4c8129d5f169f839d6b') in 0.012806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028444 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/SpectateObjects.cs
+  artifactKey: Guid(ed53d94dadeadcb4c8be0f4f5bbf2eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/SpectateObjects.cs using Guid(ed53d94dadeadcb4c8be0f4f5bbf2eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a0a82988f16d7011d3079b4c4f9c20') in 0.009157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017634 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/Dice.mat
+  artifactKey: Guid(3a79c00c48267294fa2e40eff8a4e6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/Dice.mat using Guid(3a79c00c48267294fa2e40eff8a4e6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47cee4be2cb6c0feacfd470e9c7811d1') in 0.018685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016420 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin
+  artifactKey: Guid(779c3cf9950190c4a9fd5e12e9bdc2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin using Guid(779c3cf9950190c4a9fd5e12e9bdc2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1b0530e1dc97689413e156bf6f6b72') in 0.010169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054186 seconds.
+  path: Assets/_MK/MKGlowFree/Legacy_3_0_7/MKGlowFree_3_0_7.unitypackage
+  artifactKey: Guid(ec81e533d9011dd44901fe005dee2ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Legacy_3_0_7/MKGlowFree_3_0_7.unitypackage using Guid(ec81e533d9011dd44901fe005dee2ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53197a85b7a924fc2148be2d0c5622ba') in 0.009182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029092 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-Refraction.shader
+  artifactKey: Guid(f7d4238a7799d0c459ae9c5bea3ff7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-Refraction.shader using Guid(f7d4238a7799d0c459ae9c5bea3ff7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a04203d3a40564cf84853fac77c1a28') in 0.009463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015869 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/UI
+  artifactKey: Guid(28ade9a810a19fe47bade25c5ed37510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/UI using Guid(28ade9a810a19fe47bade25c5ed37510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a972c66155c1475ada74a28788b281d8') in 0.004243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012259 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM25.shader
+  artifactKey: Guid(2f2fbf70d6fce684f8b087b2b8d0a1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM25.shader using Guid(2f2fbf70d6fce684f8b087b2b8d0a1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be54721af6947d91360ff3bd04b81a60') in 0.009754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012396 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal/MK_Normal-Glossy.shader
+  artifactKey: Guid(f31cfd87593ab97408eaf6c31ff6fcec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal/MK_Normal-Glossy.shader using Guid(f31cfd87593ab97408eaf6c31ff6fcec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdee1b1930c727538391469742f27df') in 0.009784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007797 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df75b7d1a31c5b4f73fd45661b403b04') in 0.006234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013184 seconds.
+  path: Assets/Scripts/GameController.cs
+  artifactKey: Guid(86b769aa40b77e84bab5a665839ac8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameController.cs using Guid(86b769aa40b77e84bab5a665839ac8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bf989cc26a19468d444844b7499189') in 0.014066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013356 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/AsteroidMat2.mat
+  artifactKey: Guid(9779557c388bc9245939afbb34e40e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/AsteroidMat2.mat using Guid(9779557c388bc9245939afbb34e40e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7c1aacd9e04a87a63772e8d98a6392') in 0.028567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034885 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/Sprites/Sprites-Default.shader
+  artifactKey: Guid(061c63edf87832d4c81666b396d3042a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/Sprites/Sprites-Default.shader using Guid(061c63edf87832d4c81666b396d3042a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0fe87534def83c41d1b1562584526d') in 0.010557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007214 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Models
+  artifactKey: Guid(4725193379f476c44ae12da82a867f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Models using Guid(4725193379f476c44ae12da82a867f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84abef15995bd400f0699771bdff89e') in 0.009912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011289 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Unlit-TextDetail.shader
+  artifactKey: Guid(a0af9da83693d554a9440dded441c0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Unlit-TextDetail.shader using Guid(a0af9da83693d554a9440dded441c0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f36007c3d80d8ac0a3262eaa39a11f') in 0.012103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012864 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Cracks_Tribal.png
+  artifactKey: Guid(c7a0751b73d986c45be8b2598fc18cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Cracks_Tribal.png using Guid(c7a0751b73d986c45be8b2598fc18cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a91fe3a4abe6483d89bdcd3e342d40f') in 0.021486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014027 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout/MK_Cutout-Glossy.shader
+  artifactKey: Guid(9eeb8bb0d16a15a4689fd124c301013d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout/MK_Cutout-Glossy.shader using Guid(9eeb8bb0d16a15a4689fd124c301013d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861326028478521466813f5cbba7fa07') in 0.012579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011477 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Default.shader
+  artifactKey: Guid(0f9fab1ea0928f24a84c9bada8426f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Default.shader using Guid(0f9fab1ea0928f24a84c9bada8426f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676d7fc32799ceb3bd68b8547c03ea9f') in 0.004718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010625 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/Settings.cs
+  artifactKey: Guid(418ebaee842810544a03bdab1da9c6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/Settings.cs using Guid(418ebaee842810544a03bdab1da9c6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39db8b5ee014abfe9fab72f512f6ec2') in 0.009009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011422 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Sprites/Sprites-Default.shader
+  artifactKey: Guid(23d75a8f47c814140998e9ede087121f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Sprites/Sprites-Default.shader using Guid(23d75a8f47c814140998e9ede087121f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c157561242a38ba98c06fada5f15fa89') in 0.004074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011864 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Sprites/Sprites-Diffuse.shader
+  artifactKey: Guid(18ab55107c3748d49b9411b18abdbcf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Sprites/Sprites-Diffuse.shader using Guid(18ab55107c3748d49b9411b18abdbcf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838de71b8408d408a922a9dedef23eda') in 0.005524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010382 seconds.
+  path: Assets/Scripts/Rotator.cs
+  artifactKey: Guid(859dc0283f4d37d41b7b7695e2d361be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Rotator.cs using Guid(859dc0283f4d37d41b7b7695e2d361be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1bbf79cc73a0ce20c72ee04a1c9dfb') in 0.008911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009894 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/MinMaxRange.cs
+  artifactKey: Guid(313fb3ad9a7987f4b9dbad8064747e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/MinMaxRange.cs using Guid(313fb3ad9a7987f4b9dbad8064747e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6eb0ff71a3138e938790793300718cb') in 0.008800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010348 seconds.
+  path: Assets/Scripts/Restart.cs
+  artifactKey: Guid(9e4cf276accd1864ab16bb60d0d26acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Restart.cs using Guid(9e4cf276accd1864ab16bb60d0d26acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed259bd87917f564d0f83a450c79f8b0') in 0.010279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013270 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/AsteroidSpawner.cs
+  artifactKey: Guid(9e5d6d691b40b59479b8c1cae0c5057c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/AsteroidSpawner.cs using Guid(9e5d6d691b40b59479b8c1cae0c5057c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87d2290f44e551cd8f0495c31b92cd1') in 0.008750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028781 seconds.
+  path: Assets/SuperFatShapess.unity
+  artifactKey: Guid(0e1ba9eba14dd304c8b6842d2bd29c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SuperFatShapess.unity using Guid(0e1ba9eba14dd304c8b6842d2bd29c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9db3f11b14fceb0adf35b9d8a113c41') in 0.010131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011079 seconds.
+  path: Assets/_MK/MKGlowFree/Editor/MKGlowEditor.cs
+  artifactKey: Guid(abf47dc6f6775b14d8fef7b6b3d69df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Editor/MKGlowEditor.cs using Guid(abf47dc6f6775b14d8fef7b6b3d69df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c67e07b13edbe02740fee0814fd6806') in 0.008844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011044 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c25328c80d3dcc2bd2bf99760378271') in 0.009646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011959 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/MoveCamera.cs
+  artifactKey: Guid(700fe916583e8494596de0ced530ec93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/MoveCamera.cs using Guid(700fe916583e8494596de0ced530ec93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550166e448670cadb522ef883354a914') in 0.008877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006680 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/Sprites
+  artifactKey: Guid(d39d5bf2da821f442b99098e47ca3feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/Sprites using Guid(d39d5bf2da821f442b99098e47ca3feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c124d011d30b7d3ac67fcb97229e09a8') in 0.004361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012143 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout/MK_Cutout-DiffuseBumpSpec.shader
+  artifactKey: Guid(24b3052680172f24189449c9b00a0941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout/MK_Cutout-DiffuseBumpSpec.shader using Guid(24b3052680172f24189449c9b00a0941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77097d64459415e01bda3c31ad64c7af') in 0.008965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011659 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/Sprite.hlsl
+  artifactKey: Guid(df44eb0ddd155f045bfe2ddf660f4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/Sprite.hlsl using Guid(df44eb0ddd155f045bfe2ddf660f4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7250fce8f33fcfcec4925c07b461a5') in 0.009667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021505 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Other/MK_Unlit-Normal.shader
+  artifactKey: Guid(e6f9f025efa86ad4c807ab5b845f3bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Other/MK_Unlit-Normal.shader using Guid(e6f9f025efa86ad4c807ab5b845f3bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc44fb1978b1f9a36974030d1b5108d') in 0.008588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011365 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-RefractionDetail.shader
+  artifactKey: Guid(43ff148c227708441a56e8eb7fa18f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Lit-RefractionDetail.shader using Guid(43ff148c227708441a56e8eb7fa18f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf93419e75f198d7e9525bea9f89422') in 0.010837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007098 seconds.
+  path: Assets/_MK
+  artifactKey: Guid(9a093aa6abaaa4f4d84b80813da78fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK using Guid(9a093aa6abaaa4f4d84b80813da78fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6739d0325b7fe3101c93777c0035432') in 0.010677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.092701 seconds.
+  path: Assets/_MK/MKGlowFree/Editor/MinMaxRangeDrawer.cs
+  artifactKey: Guid(98559c9b55f10c24b95481ca99ebcbde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Editor/MinMaxRangeDrawer.cs using Guid(98559c9b55f10c24b95481ca99ebcbde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b075aa74d8b59c4c23807c337cc537ad') in 0.008381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010812 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/Presample.hlsl
+  artifactKey: Guid(c38b20dca860eb1409ca892320961924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/Presample.hlsl using Guid(c38b20dca860eb1409ca892320961924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f4e6e2702ee7ef405b815a9cf01c5a') in 0.011130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007159 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal
+  artifactKey: Guid(00797bdbf19397a47be005d224024009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Normal using Guid(00797bdbf19397a47be005d224024009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94c917b5ebdf7e5985d261e008b35dc') in 0.008783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011469 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin/MK_Illumin-Diffuse.shader
+  artifactKey: Guid(3116dc5d2d459014eb4d26279676bac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin/MK_Illumin-Diffuse.shader using Guid(3116dc5d2d459014eb4d26279676bac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00abe99dc19acf6218e48017cacacc4') in 0.009226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.049333 seconds.
+  path: Assets/_MK/MKGlowFree/Legacy_3_0_7
+  artifactKey: Guid(449318a643d03a54eb7ef130c8f294ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Legacy_3_0_7 using Guid(449318a643d03a54eb7ef130c8f294ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f08b3b5019f89e04711b0e58d71882') in 0.012185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013898 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Inc/Common.hlsl
+  artifactKey: Guid(7a7b0270c766c5b409036f16a47aff5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Inc/Common.hlsl using Guid(7a7b0270c766c5b409036f16a47aff5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba071e1c83b3f6360225a65976bd84a') in 0.010580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014681 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/PipelineProperties.cs
+  artifactKey: Guid(6a85be813ae6a9044b3a05f8ebf294ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/PipelineProperties.cs using Guid(6a85be813ae6a9044b3a05f8ebf294ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156ad6d47af14d372517e59bd6510adb') in 0.012338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013233 seconds.
+  path: Assets/_MK/MKGlowFree/Editor/EditorHelper.EditorUIContent.cs
+  artifactKey: Guid(2d3d67405b01fff4fa80811e3a3f3e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Editor/EditorHelper.EditorUIContent.cs using Guid(2d3d67405b01fff4fa80811e3a3f3e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef83fcfa961a048836898051f43ef50e') in 0.009768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011969 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/FlameLuminance.mat
+  artifactKey: Guid(3e070e54cb3e22147a86f65fb12f464b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/FlameLuminance.mat using Guid(3e070e54cb3e22147a86f65fb12f464b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e59469d7659e0228308af6d7f86df0') in 0.064908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056627 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle/MK_Particle Alpha Blend.shader
+  artifactKey: Guid(7ef2c56206c905847a69a292eddd5a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Particle/MK_Particle Alpha Blend.shader using Guid(7ef2c56206c905847a69a292eddd5a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b30bb2d2fafa5b44f12b08fd91f262') in 0.010041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031154 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin/MK_Illumin-Glossy.shader
+  artifactKey: Guid(1e9f5070bb59d4749ac7ae2b066204d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Illumin/MK_Illumin-Glossy.shader using Guid(1e9f5070bb59d4749ac7ae2b066204d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963dde7b06c0fe435d63a803d18f8c70') in 0.011475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015677 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/AsteroidMat0.mat
+  artifactKey: Guid(aa221cbf7916f0c4e83c9958b70c6f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/AsteroidMat0.mat using Guid(aa221cbf7916f0c4e83c9958b70c6f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd5abfc4a5cd547770712dd5159a524') in 0.022596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012235 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/Rune.mat
+  artifactKey: Guid(6a9a800a019029e43a571d32dec4dee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/Rune.mat using Guid(6a9a800a019029e43a571d32dec4dee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5723263d43c23a614174ab44ceb71a') in 0.022627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007818 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures
+  artifactKey: Guid(50bb172362d11ee48a0d244c0e0e2881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures using Guid(50bb172362d11ee48a0d244c0e0e2881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768e23aca7b4731e459c16387aebe6b4') in 0.008613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006883 seconds.
+  path: Assets/_MK/MKGlowFree/Builtin/Resources
+  artifactKey: Guid(2d4c075f8f298f746bb65895ae354575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Builtin/Resources using Guid(2d4c075f8f298f746bb65895ae354575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c94b067baa73664a5f3065e2a76d514') in 0.003540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011323 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Scripts/HandleMenu.cs
+  artifactKey: Guid(08c715f671cd7bc46af22ed8baaa913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Scripts/HandleMenu.cs using Guid(08c715f671cd7bc46af22ed8baaa913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f3d727403739c46115730f40c340ef') in 0.009517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011063 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/RenderTargetContext.cs
+  artifactKey: Guid(4feec4627fc5ace47ab9109414e4ea48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/RenderTargetContext.cs using Guid(4feec4627fc5ace47ab9109414e4ea48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '813fac6b69b1d37da7429c4a10412d31') in 0.008632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010547 seconds.
+  path: Assets/Scenes/SuperShapes.unity
+  artifactKey: Guid(ce8d8c8800c975241b0a809646550ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SuperShapes.unity using Guid(ce8d8c8800c975241b0a809646550ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c34cf4203bd3c006a4177a31f5c57d9a') in 0.009316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011068 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Unlit-Detail.shader
+  artifactKey: Guid(4088ec53113e8614bbe8bfa8f8a753df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsLuminance/UI/UI-Unlit-Detail.shader using Guid(4088ec53113e8614bbe8bfa8f8a753df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e32d9b22896a47031579ee8585c734') in 0.009201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038542 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Materials/SparksSelective.mat
+  artifactKey: Guid(cbdef9bdc6070e74597e595c3a7acf06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Materials/SparksSelective.mat using Guid(cbdef9bdc6070e74597e595c3a7acf06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64f42fc2c0af9e9da07e01530421083') in 0.021753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051939 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent/MK_Transparent-Diffuse.shader
+  artifactKey: Guid(dadfcbf3fd9ab9e4ba80fe75af45f5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Transparent/MK_Transparent-Diffuse.shader using Guid(dadfcbf3fd9ab9e4ba80fe75af45f5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621ab5d7642d42e77373029ed349b58d') in 0.009368 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011761 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Cracks_Simple_01.png
+  artifactKey: Guid(1b9fd3ace44e53f41b09d07b79b36fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Cracks_Simple_01.png using Guid(1b9fd3ace44e53f41b09d07b79b36fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '072152ea7d891cdd909c6870e5ef717c') in 0.020380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014075 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM35.shader
+  artifactKey: Guid(5d1e83c3c2b92e04baff8124121698d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/Effect/MKGlowSM35.shader using Guid(5d1e83c3c2b92e04baff8124121698d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17391401ed83305a567da0e04dde51c') in 0.011228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013610 seconds.
+  path: Assets/_MK/MKGlowFree/Editor/SelectiveStandardShaderGUI.cs
+  artifactKey: Guid(6aefc503b7fa63d4c8d3ce72322787df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Editor/SelectiveStandardShaderGUI.cs using Guid(6aefc503b7fa63d4c8d3ce72322787df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b6b4dc19e4ca67e559c83ee73c8d8b') in 0.008735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015877 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_right.png
+  artifactKey: Guid(8971ec7d37a32064abcfeb9131f122ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/MKGlowSky_right.png using Guid(8971ec7d37a32064abcfeb9131f122ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be1159f5b50db8e7c0767248734c25c') in 0.020281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010991 seconds.
+  path: Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout
+  artifactKey: Guid(d749b84fcb18201429f119d965a43d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Shaders/VariantsSelective/Legacy/Cutout using Guid(d749b84fcb18201429f119d965a43d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efc25a220f942c57e8775442b4577f8') in 0.010473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014273 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Models/Tablet.FBX
+  artifactKey: Guid(5ed3359e943040c49b3b348bc97f26cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Models/Tablet.FBX using Guid(5ed3359e943040c49b3b348bc97f26cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0bac7964d7d81338867b0c773cbb32b') in 0.027484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012507 seconds.
+  path: Assets/_MK/MKGlowFree/Scripts/Compatibility.cs
+  artifactKey: Guid(34187b08f546de2468b18fb5ae48efd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Scripts/Compatibility.cs using Guid(34187b08f546de2468b18fb5ae48efd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ebe5d89298f4929edb645e7a832903e') in 0.008596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011920 seconds.
+  path: Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Old.jpg
+  artifactKey: Guid(486e60e84e645c744bb48b428b39435c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MK/MKGlowFree/Examples/Textures/Icosa_Glow_Old.jpg using Guid(486e60e84e645c744bb48b428b39435c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ada7b0189535a7948f1d016bbed914') in 0.024113 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
