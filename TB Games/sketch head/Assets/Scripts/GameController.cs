@@ -5,23 +5,27 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
-
-    //Platform gameobject
     [Header("Platform Object")]
     public GameObject platform;
-    //Defaut postion for platform
-    float pos = 0;
+    public float pos = 0;
+    [Header("Game Over UI Canvas Object")]
+    public GameObject gameOverCanvas;
 
- 
+
     // Start is called before the first frame update
     void Start()
     {
-
-        //Interger i equals 1000
         for (int i = 0; i < 1000; i++)
-        {   //Execute SpawnPlatforms
-            spawnPlatforms();
+        {
+            SpawnPlatforms();
         }
+
+    }
+
+    void SpawnPlatforms()
+    {
+        Instantiate(platform, new Vector3(Random.value * 10 - 5f, pos, 0.5f), Quaternion.identity);
+        pos += 5f;
     }
 
     // Update is called once per frame
@@ -30,12 +34,9 @@ public class GameController : MonoBehaviour
 
     }
 
-    //Spawn platforms function
-    void spawnPlatforms()
+    public void GameOver()
     {
-        //Spwan platforms ramdomly on the y axis and place them on the Y axis every 2.5
-        Instantiate(platform, new Vector3(Random.value * 10 - 5f, pos ,0.5f  ),  Quaternion.identity);
-        pos += 2.5f;
+        gameOverCanvas.SetActive(true);
     }
-    
 }
+
